@@ -1,8 +1,10 @@
 # Copy-Check POC
 
-Reference implementation of the architecture in
-[../COPY_CHECKING_ARCHITECTURE.md](../COPY_CHECKING_ARCHITECTURE.md).
-Reference for expected annotated output: [../../test123](../../test123).
+Reference implementation. This repo is being rewritten against
+[ARCHITECTURE.md](ARCHITECTURE.md) — the current code under
+`backend/src/services/` is the starting point; that document is the target.
+
+Read [ARCHITECTURE.md](ARCHITECTURE.md) first if you are new to the project.
 
 ## What it does
 
