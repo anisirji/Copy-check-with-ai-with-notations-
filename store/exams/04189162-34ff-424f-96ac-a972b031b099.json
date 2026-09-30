@@ -1,0 +1,667 @@
+{
+  "title": "Biology Unit Test",
+  "subject": "biology",
+  "class": "8",
+  "totalMarks": 20,
+  "questions": [
+    {
+      "id": "1(a)",
+      "prompt": "Arrange the following in a food chain: Plant, Small bird, Caterpillar.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Plant → Caterpillar → Small bird",
+      "rubric": [
+        {
+          "id": "1(a)a",
+          "concept": "Correct order of organisms in the food chain",
+          "marks": 1.18,
+          "acceptable": [
+            "Plant → Caterpillar → Small bird",
+            "Plant to Caterpillar to Small bird",
+            "Plant, Caterpillar, Small bird",
+            "Producer to Herbivore to Carnivore",
+            "Plant, then Caterpillar, then Small bird",
+            "Plant -> Caterpillar -> Small bird",
+            "Plant -> Caterpillar -> Bird",
+            "Plant, then Caterpillar, then Bird"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "1(b)",
+      "prompt": "Name the level in a food chain represented by herbivores.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Primary consumers",
+      "rubric": [
+        {
+          "id": "1(b)a",
+          "concept": "Primary consumers",
+          "marks": 1.18,
+          "acceptable": [
+            "primary consumers",
+            "herbivores",
+            "plant eaters",
+            "first-order consumers",
+            "level 2 consumers",
+            "second trophic level"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(a)",
+      "prompt": "What is called the movement of organisms from one place to another?",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Migration",
+      "rubric": [
+        {
+          "id": "2(a)a",
+          "concept": "movement of organisms from one place to another",
+          "marks": 1.18,
+          "acceptable": [
+            "migration",
+            "dispersal",
+            "relocation",
+            "movement",
+            "travel",
+            "translocation"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(b)",
+      "prompt": "Define decomposers.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Decomposers are organisms that break down dead or decaying organic matter, recycling nutrients back into the ecosystem.",
+      "rubric": [
+        {
+          "id": "2(b)",
+          "concept": "Decomposers are organisms that break down dead or decaying organic matter and recycle nutrients back into the ecosystem.",
+          "marks": 1.18,
+          "acceptable": [
+            "organisms that decompose and recycle nutrients",
+            "organisms that break down organic material and return nutrients to the ecosystem",
+            "organisms that digest dead matter and recycle nutrients",
+            "organisms that decompose dead organisms and restore nutrients to the environment",
+            "organisms that break down decaying matter and contribute to nutrient cycling"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(c)",
+      "prompt": "Which animal is a common pest?",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "The common rat (Rattus norvegicus) is a common pest.",
+      "rubric": [
+        {
+          "id": "2(c)a",
+          "concept": "Identify a common pest animal",
+          "marks": 1.18,
+          "acceptable": [
+            "common rat",
+            "Rattus norvegicus",
+            "house mouse",
+            "Mus musculus",
+            "cockroach",
+            "Blattodea",
+            "housefly",
+            "Musca domestica",
+            "mosquito",
+            "Culicidae",
+            "bed bug",
+            "Cimex lectularius",
+            "flea",
+            "Siphonaptera",
+            "termite",
+            "Isoptera",
+            "ant",
+            "Formicidae"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "3(a)",
+      "prompt": "Identify the odd one out: Liger, Tiger, Lion, Leopard.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Liger",
+      "rubric": [
+        {
+          "id": "3(a)a",
+          "concept": "Identify the hybrid animal",
+          "marks": 1.18,
+          "acceptable": [
+            "Liger",
+            "Hybrid",
+            "Crossbreed",
+            "Not a pure species",
+            "Mixed species",
+            "Liger is a hybrid",
+            "Liger is a crossbreed"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "3(b)",
+      "prompt": "Identify the odd one out: Liger, Parasite, Host, Symbiont.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Liger",
+      "rubric": [
+        {
+          "id": "3(b)a",
+          "concept": "Identify Liger as the odd one out",
+          "marks": 1.18,
+          "acceptable": [
+            "Liger",
+            "Liger is the odd one out",
+            "The odd one out is Liger",
+            "Liger does not belong",
+            "Liger is different",
+            "Liger is not like the others",
+            "Liger stands out",
+            "Liger is unique in this list"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "4(a)",
+      "prompt": "List any two types of symbiotic relationships.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Mutualism, Parasitism",
+      "rubric": [
+        {
+          "id": "4(a)a",
+          "concept": "Type of symbiotic relationship 1",
+          "marks": 0.59,
+          "acceptable": [
+            "mutualism",
+            "mutualistic relationship",
+            "mutualistic symbiosis",
+            "cooperation",
+            "beneficial symbiosis",
+            "commensalism",
+            "commensalistic relationship",
+            "commensalistic symbiosis"
+          ]
+        },
+        {
+          "id": "4(a)b",
+          "concept": "Type of symbiotic relationship 2",
+          "marks": 0.59,
+          "acceptable": [
+            "parasitism",
+            "parasitic relationship",
+            "parasitic symbiosis",
+            "host-parasite interaction",
+            "harmful symbiosis",
+            "competition",
+            "competitive relationship",
+            "competitive symbiosis"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "4(b)",
+      "prompt": "Name two abiotic factors essential for photosynthesis.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Light and carbon dioxide.",
+      "rubric": [
+        {
+          "id": "4(b)",
+          "concept": "Abiotic factors for photosynthesis",
+          "marks": 1.18,
+          "acceptable": [
+            {
+              "factor": "light",
+              "phrases": [
+                "light",
+                "sunlight",
+                "solar energy",
+                "light energy",
+                "sun's rays"
+              ]
+            },
+            {
+              "factor": "carbon dioxide",
+              "phrases": [
+                "carbon dioxide",
+                "CO2",
+                "atmospheric CO2",
+                "carbonic gas",
+                "air CO2"
+              ]
+            },
+            {
+              "factor": "water",
+              "phrases": ["water", "H2O", "moisture", "rainwater"]
+            },
+            {
+              "factor": "temperature",
+              "phrases": ["temperature", "heat", "warmth"]
+            }
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "Differentiate between biotic and abiotic components of an ecosystem.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Biotic components are the living parts of an ecosystem, such as plants and animals, while abiotic components are the non-living parts, like water, sunlight, and minerals.",
+      "rubric": [
+        {
+          "id": "5",
+          "concept": "Differentiate between biotic and abiotic components of an ecosystem",
+          "marks": 1.18,
+          "acceptable": [
+            "biotic components are living parts and abiotic components are non-living parts",
+            "living parts like plants and animals vs non-living parts like water and sunlight",
+            "living organisms vs non-living factors",
+            "organisms vs physical environment",
+            "living things vs environmental factors"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(a)",
+      "prompt": "Differentiate between flora and fauna.",
+      "maxMarks": 1.18,
+      "subject": "biology",
+      "modelAnswer": "Flora refers to plant life, while fauna refers to animal life in a particular region or environment.",
+      "rubric": [
+        {
+          "id": "6(a)",
+          "concept": "Differentiate between flora and fauna",
+          "marks": 1.18,
+          "acceptable": [
+            "flora refers to plant life and fauna refers to animal life",
+            "flora is plant life while fauna is animal life",
+            "flora means plants and fauna means animals",
+            "flora includes plants and fauna includes animals",
+            "flora is vegetation and fauna is wildlife"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(b)(i)",
+      "prompt": "Name the producers of an ecosystem.",
+      "maxMarks": 1.17,
+      "subject": "biology",
+      "modelAnswer": "Plants, algae, and some bacteria.",
+      "rubric": [
+        {
+          "id": "6(b)(i)a",
+          "concept": "Producers of an ecosystem",
+          "marks": 1.17,
+          "acceptable": [
+            "plants",
+            "algae",
+            "some bacteria",
+            "photosynthetic organisms",
+            "autotrophs",
+            "cyanobacteria",
+            "phytoplankton"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(b)(ii)",
+      "prompt": "What is an autotroph?",
+      "maxMarks": 1.17,
+      "subject": "biology",
+      "modelAnswer": "An autotroph is an organism that produces its own food using light or chemical energy.",
+      "rubric": [
+        {
+          "id": "6(b)(ii)a",
+          "concept": "Organism that produces its own food using light or chemical energy",
+          "marks": 1.17,
+          "acceptable": [
+            "autotroph",
+            "self-feeder",
+            "organism that makes its own food",
+            "organism that synthesizes its own nutrients",
+            "producer",
+            "organism that uses light or chemical energy to produce food",
+            "organism that produces food through photosynthesis or chemosynthesis"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(b)(iii)",
+      "prompt": "Name the consumers of an ecosystem.",
+      "maxMarks": 1.17,
+      "subject": "biology",
+      "modelAnswer": "Primary consumers, secondary consumers, and tertiary consumers.",
+      "rubric": [
+        {
+          "id": "6(b)(iii)a",
+          "concept": "consumers of an ecosystem",
+          "marks": 1.17,
+          "acceptable": [
+            "primary consumers",
+            "secondary consumers",
+            "tertiary consumers",
+            "herbivores",
+            "carnivores",
+            "omnivores",
+            "decomposers"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(b)(iv)",
+      "prompt": "What is a heterotroph?",
+      "maxMarks": 1.17,
+      "subject": "biology",
+      "modelAnswer": "A heterotroph is an organism that obtains its energy and nutrients by consuming other organisms.",
+      "rubric": [
+        {
+          "id": "6(b)(iv)a",
+          "concept": "Organism that obtains energy and nutrients by consuming other organisms",
+          "marks": 1.17,
+          "acceptable": [
+            "heterotroph",
+            "consumer",
+            "organism that eats others",
+            "organism that feeds on others",
+            "organism that relies on others for food",
+            "organism that consumes other organisms",
+            "organism that cannot produce its own food",
+            "organism that depends on others for energy"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(c)",
+      "prompt": "Define an ecosystem.",
+      "maxMarks": 1.17,
+      "subject": "biology",
+      "modelAnswer": "An ecosystem is a community of living organisms interacting with each other and their physical environment.",
+      "rubric": [
+        {
+          "id": "6(c)",
+          "concept": "ecosystem definition",
+          "marks": 1.17,
+          "acceptable": [
+            "community of living organisms interacting with each other and their physical environment",
+            "group of living things interacting with their surroundings",
+            "collection of organisms and their relationship with the environment",
+            "assemblage of species and their interaction with abiotic factors",
+            "living community engaging with the non-living environment"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(b)",
+      "prompt": "Why is food web important in an ecosystem?",
+      "maxMarks": 1.17,
+      "subject": "biology",
+      "modelAnswer": "A food web is important because it shows how energy and nutrients flow through an ecosystem, illustrating the interconnectedness of organisms.",
+      "rubric": [
+        {
+          "id": "6(b)",
+          "concept": "illustrates the flow of energy and nutrients and demonstrates interconnectedness of organisms",
+          "marks": 1.17,
+          "acceptable": [
+            "shows energy flow and organism interactions",
+            "demonstrates nutrient cycling and interdependence",
+            "depicts energy transfer and connections between species",
+            "illustrates nutrient flow and relationships among organisms",
+            "shows how energy moves and how organisms are linked",
+            "illustrates how energy and nutrients flow and how organisms are interconnected"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    }
+  ],
+  "evaluationRules": {
+    "mode": "review",
+    "partialCredit": true,
+    "carryForward": true,
+    "unitPenalty": "half",
+    "flagUncertain": true,
+    "confirmed": true
+  },
+  "id": "04189162-34ff-424f-96ac-a972b031b099",
+  "createdAt": "2026-09-23T21:36:04.842Z",
+  "updatedAt": "2026-09-23T21:36:04.932Z",
+  "paper": {
+    "fileName": "biology-questions.pdf"
+  },
+  "marksNormalization": {
+    "originalTotalMarks": 17,
+    "targetTotalMarks": 20,
+    "questions": [
+      {
+        "id": "1(a)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "1(b)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "2(a)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "2(b)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "2(c)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "3(a)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "3(b)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "4(a)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "4(b)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "5",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "6(a)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.18
+      },
+      {
+        "id": "6(b)(i)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.17
+      },
+      {
+        "id": "6(b)(ii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.17
+      },
+      {
+        "id": "6(b)(iii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.17
+      },
+      {
+        "id": "6(b)(iv)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.17
+      },
+      {
+        "id": "6(c)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.17
+      },
+      {
+        "id": "6(b)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.17
+      }
+    ]
+  },
+  "approval": {
+    "approvedAt": "2026-09-23T21:36:04.932Z",
+    "approvedBy": "test-runner"
+  }
+}

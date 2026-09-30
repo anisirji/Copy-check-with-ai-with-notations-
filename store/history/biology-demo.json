@@ -1,0 +1,24 @@
+[
+  {
+    "runId": "a98fd1a9-1564-4eaf-86b7-789899c9c34f--biology-demo--1790193447943",
+    "examId": "a98fd1a9-1564-4eaf-86b7-789899c9c34f",
+    "examTitle": "Biology Unit Test",
+    "subject": "biology",
+    "class": "8",
+    "awardedMarks": 0,
+    "maxMarks": 20,
+    "percentage": 0,
+    "releasedAt": "2026-09-23T20:08:10.544Z"
+  },
+  {
+    "runId": "04189162-34ff-424f-96ac-a972b031b099--biology-demo--1790199365000",
+    "examId": "04189162-34ff-424f-96ac-a972b031b099",
+    "examTitle": "Biology Unit Test",
+    "subject": "biology",
+    "class": "8",
+    "awardedMarks": 6.49,
+    "maxMarks": 20,
+    "percentage": 32.5,
+    "releasedAt": "2026-09-23T21:52:59.887Z"
+  }
+]

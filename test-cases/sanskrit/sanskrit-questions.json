@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "prompt": "Fill in the blank: प्रथमा _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2",
+    "prompt": "Fill in the blank: द्वितीया _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "3",
+    "prompt": "Fill in the blank: तृतीया _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "4",
+    "prompt": "Fill in the blank: चतुर्थी _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "5",
+    "prompt": "Fill in the blank: पंचमी _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "6",
+    "prompt": "Fill in the blank: षष्ठी _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "7",
+    "prompt": "Fill in the blank: सप्तमी _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न (2)",
+    "prompt": "Fill in the blank: Provide the singular and plural forms for the given words.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 1(क)",
+    "prompt": "Fill in the blank: पर्यावरण के _____ प्रदूषण विभिन्न प्रकार के होते हैं।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 1(ख)",
+    "prompt": "Fill in the blank: अर्थ _____ संख्या करिश्मा।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 1(ग)",
+    "prompt": "Fill in the blank: _____ हनुमान साप बमकट मवति।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 1(घ)",
+    "prompt": "Fill in the blank: विद्यमान दुर्जनः परिहास्यः।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 1(ङ)",
+    "prompt": "Fill in the blank: अभिमान व्यवहारण मिमानं विमानं।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "7(क)",
+    "prompt": "Fill in the blank: पदार्थ का सबसे छोटा कण _____ कहलाता है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "7(ख)",
+    "prompt": "Fill in the blank: मानव शरीर की सबसे छोटी इकाई _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "7(ग)",
+    "prompt": "Fill in the blank: वनस्पति जगत का अध्ययन _____ कहलाता है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "7(घ)",
+    "prompt": "Fill in the blank: सूर्य की ऊर्जा का मुख्य स्रोत _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "7(ङ)",
+    "prompt": "Fill in the blank: जल का रासायनिक सूत्र _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "8(क)",
+    "prompt": "Fill in the blank: 'भूमिगान' का मूल शब्द _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "8(ख)",
+    "prompt": "Fill in the blank: 'दुर्जन' का मूल शब्द _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "8(ग)",
+    "prompt": "Fill in the blank: 'अमम' का मूल शब्द _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "8(घ)",
+    "prompt": "Fill in the blank: 'पक्षी' का मूल शब्द _____ है।",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 1",
+    "prompt": "Fill in the blank: सामान्य ताप में वातावरण _____.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 2",
+    "prompt": "Define 'स्वातंत्र्यवीर'.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 3",
+    "prompt": "What is 'पटकथा'? Define with examples.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 4",
+    "prompt": "What is 'कर्म'? Explain its significance.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 5",
+    "prompt": "Define 'वायु'.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "प्रश्न 6",
+    "prompt": "What is 'मधुमेह'? Discuss its causes and effects.",
+    "maxMarks": null,
+    "subject": "general"
+  }
+]

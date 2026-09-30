@@ -1,0 +1,510 @@
+{
+  "title": "Chemistry Unit Test II — Atoms & Nucleons",
+  "subject": "Chemistry",
+  "class": "8 A",
+  "totalMarks": 20,
+  "questions": [
+    {
+      "id": "1",
+      "sourceQuestionIds": ["1(a)", "1(b)", "1(c)", "1(d)", "1(e)"],
+      "prompt": "[1(a)]\n______ are positively charged subatomic particles present in the nucleus of an atom.\n\n[1(b)]\nThe ______ of an element is equal to the number of protons in its nucleus.\n\n[1(c)]\n______ are electrically neutral subatomic particles present in the nucleus.\n\n[1(d)]\nProtons and neutrons together are known as ______.\n\n[1(e)]\nA negatively charged ion is called a/an ______.",
+      "maxMarks": 5,
+      "subject": "chemistry",
+      "modelAnswer": "[1(a)]\nProtons\n\n[1(b)]\natomic number\n\n[1(c)]\nNeutrons\n\n[1(d)]\nnucleons\n\n[1(e)]\nanion",
+      "rubric": [
+        {
+          "id": "1::1::1",
+          "concept": "[1(a)] protons",
+          "marks": 1,
+          "acceptable": [
+            "protons",
+            "positively charged particles",
+            "positive subatomic particles",
+            "nuclear protons",
+            "positive particles in nucleus",
+            "protons in the nucleus",
+            "positively charged subatomic particles"
+          ],
+          "sourceQuestionId": "1(a)",
+          "sourceCriterionId": "1(a)a"
+        },
+        {
+          "id": "1::2::1",
+          "concept": "[1(b)] atomic number",
+          "marks": 1,
+          "acceptable": [
+            "atomic number",
+            "proton number",
+            "number of protons",
+            "Z",
+            "element number",
+            "proton count",
+            "count of protons"
+          ],
+          "sourceQuestionId": "1(b)",
+          "sourceCriterionId": "1(b)a"
+        },
+        {
+          "id": "1::3::1",
+          "concept": "[1(c)] neutrons",
+          "marks": 1,
+          "acceptable": [
+            "neutrons",
+            "neutral particles",
+            "neutral subatomic particles",
+            "nuclear neutral particles",
+            "nucleus neutral particles",
+            "electrically neutral particles",
+            "electrically neutral subatomic particles"
+          ],
+          "sourceQuestionId": "1(c)",
+          "sourceCriterionId": "1(c)a"
+        },
+        {
+          "id": "1::4::1",
+          "concept": "[1(d)] nucleons",
+          "marks": 1,
+          "acceptable": [
+            "nucleons",
+            "nuclear particles",
+            "nucleus particles",
+            "nucleon particles",
+            "particles in the nucleus",
+            "protons and neutrons together",
+            "protons and neutrons",
+            "particles that make up the nucleus"
+          ],
+          "sourceQuestionId": "1(d)",
+          "sourceCriterionId": "1(d)a"
+        },
+        {
+          "id": "1::5::1",
+          "concept": "[1(e)] anion",
+          "marks": 1,
+          "acceptable": [
+            "anion",
+            "negative ion",
+            "negatively charged ion",
+            "negative ion species",
+            "negative charge carrier",
+            "anion species",
+            "anion particle",
+            "negatively charged particle"
+          ],
+          "sourceQuestionId": "1(e)",
+          "sourceCriterionId": "1(e)a"
+        }
+      ],
+      "tags": {
+        "chapter": "Atoms & Nucleons",
+        "topics": [
+          "Subatomic particles",
+          "Protons",
+          "Atomic number",
+          "Neutrons",
+          "Nucleons",
+          "Ions"
+        ],
+        "difficulty": "easy",
+        "confirmedByTeacher": true
+      },
+      "flags": [],
+      "schemeApproved": false
+    },
+    {
+      "id": "2",
+      "prompt": "Write two main features of Rutherford’s atomic model.",
+      "maxMarks": 2,
+      "subject": "chemistry",
+      "modelAnswer": "1. The atom consists of a small, dense, positively charged nucleus at its center. 2. Electrons orbit the nucleus in empty space around it.",
+      "rubric": [
+        {
+          "id": "2a",
+          "concept": "Nucleus contains most of the mass",
+          "marks": 1,
+          "acceptable": [
+            "nucleus contains most of the mass",
+            "mass concentrated in nucleus",
+            "nucleus is dense",
+            "nucleus holds most of the atom's mass",
+            "mass is in the center",
+            "nucleus is the core of the atom"
+          ]
+        },
+        {
+          "id": "2b",
+          "concept": "Electrons orbit the nucleus",
+          "marks": 1,
+          "acceptable": [
+            "electrons orbit the nucleus",
+            "electrons revolve around the nucleus",
+            "electrons move around the nucleus",
+            "electrons circle the nucleus",
+            "electrons travel in paths around the nucleus",
+            "electrons are in orbitals"
+          ]
+        }
+      ],
+      "tags": {
+        "chapter": "Atoms & Nucleons",
+        "topics": ["Rutherford atomic model"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      },
+      "schemeApproved": false
+    },
+    {
+      "id": "3",
+      "prompt": "An atom has atomic number 4 and 5 neutrons. Find its mass number, name the element and write its symbol in standard notation.",
+      "maxMarks": 3,
+      "subject": "chemistry",
+      "modelAnswer": "The mass number is 9. The element is Beryllium, and its symbol is \\( ^9_4\\text{Be} \\).",
+      "rubric": [
+        {
+          "id": "3a",
+          "concept": "Calculate mass number",
+          "marks": 1,
+          "acceptable": [
+            "mass number is 9",
+            "mass number equals 9",
+            "9",
+            "atomic mass is 9"
+          ]
+        },
+        {
+          "id": "3b",
+          "concept": "Identify element name and symbol",
+          "marks": 1,
+          "acceptable": [
+            "beryllium",
+            "Be",
+            "element is beryllium",
+            "beryllium (Be)",
+            "Be (beryllium)"
+          ]
+        },
+        {
+          "id": "3c",
+          "concept": "Write element symbol in standard notation",
+          "marks": 1,
+          "acceptable": [
+            "Be",
+            "symbol is Be",
+            "element symbol Be",
+            "Be with atomic number 4 and mass number 9",
+            "9Be"
+          ]
+        }
+      ],
+      "tags": {
+        "chapter": "Atoms & Nucleons",
+        "topics": ["Mass number", "Atomic notation"],
+        "difficulty": "hard",
+        "confirmedByTeacher": true
+      },
+      "schemeApproved": false
+    },
+    {
+      "id": "4",
+      "prompt": "Define isotopes. Give three isotopes of hydrogen using the correct notation.",
+      "maxMarks": 3,
+      "subject": "chemistry",
+      "modelAnswer": "Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons. The three isotopes of hydrogen are: protium (¹H), deuterium (²H), and tritium (³H).",
+      "rubric": [
+        {
+          "id": "4a",
+          "concept": "Definition of isotopes",
+          "marks": 1,
+          "acceptable": [
+            "atoms with the same number of protons but different numbers of neutrons",
+            "same element, different number of neutrons",
+            "same atomic number, different mass number",
+            "variants of an element with different neutron counts"
+          ]
+        },
+        {
+          "id": "4b",
+          "concept": "Correct notation for isotopes",
+          "marks": 1,
+          "acceptable": [
+            "element symbol with mass number",
+            "chemical symbol with isotope mass",
+            "isotope symbol with mass number",
+            "element symbol with atomic and mass numbers"
+          ]
+        },
+        {
+          "id": "4c",
+          "concept": "Three isotopes of hydrogen",
+          "marks": 1,
+          "acceptable": [
+            "protium, deuterium, tritium",
+            "1H, 2H, 3H",
+            "hydrogen-1, hydrogen-2, hydrogen-3",
+            "H-1, H-2, H-3",
+            "1/1H, 2/1H, 3/1H"
+          ]
+        }
+      ],
+      "tags": {
+        "chapter": "Atoms & Nucleons",
+        "topics": ["Isotopes", "Hydrogen isotopes"],
+        "difficulty": "hard",
+        "confirmedByTeacher": true
+      },
+      "schemeApproved": false
+    },
+    {
+      "id": "5",
+      "sourceQuestionIds": [
+        "5(i)",
+        "5(i)(a)",
+        "5(i)(b)",
+        "5(i)(c)",
+        "5(i)(d)",
+        "5(i)(e)",
+        "5(i)(f)",
+        "5(ii)",
+        "5(ii)(a)",
+        "5(ii)(b)",
+        "5(ii)(c)",
+        "5(ii)(d)",
+        "5(ii)(e)",
+        "5(ii)(f)"
+      ],
+      "prompt": "[5(i)]\n[5(i)(a)]\nDraw the atomic (Bohr) diagram for Aluminium-27 (atomic number 13).\n\n[5(i)(b)]\nState the mass number (A) for Aluminium-27 (atomic number 13).\n\n[5(i)(c)]\nState the atomic number (Z) for Aluminium-27 (atomic number 13).\n\n[5(i)(d)]\nFind the number of neutrons for Aluminium-27 (atomic number 13).\n\n[5(i)(e)]\nFind the number of protons for Aluminium-27 (atomic number 13).\n\n[5(i)(f)]\nWrite the electronic configuration for Aluminium-27 (atomic number 13).\n\n[5(ii)]\n[5(ii)(a)]\nDraw the atomic (Bohr) diagram for Chlorine-35 (atomic number 17).\n\n[5(ii)(b)]\nState the mass number (A) for Chlorine-35 (atomic number 17).\n\n[5(ii)(c)]\nState the atomic number (Z) for Chlorine-35 (atomic number 17).\n\n[5(ii)(d)]\nFind the number of neutrons for Chlorine-35 (atomic number 17).\n\n[5(ii)(e)]\nFind the number of protons for Chlorine-35 (atomic number 17).\n\n[5(ii)(f)]\nWrite the electronic configuration for Chlorine-35 (atomic number 17).",
+      "maxMarks": 7,
+      "subject": "chemistry",
+      "modelAnswer": "(i) Aluminium-27: A=27, Z=13, protons=13, neutrons=14. Bohr shells and electronic configuration: 2, 8, 3. (ii) Chlorine-35: A=35, Z=17, protons=17, neutrons=18. Bohr shells and electronic configuration: 2, 8, 7. Shell notation is fully acceptable; orbital/subshell notation is not required. Each atom is worth 3.5 marks: diagram 1.5, four numerical facts 0.25 each, electronic configuration 1.",
+      "rubric": [
+        {
+          "id": "5::1::1",
+          "concept": "[5(i)] [5(i)(a)] Correctly draw the Bohr diagram for Aluminium-27 showing 13 protons, 14 neutrons, and 13 electrons with electrons in appropriate shells (2, 8, 3)",
+          "marks": 1.5,
+          "acceptable": [
+            "Bohr diagram",
+            "atomic structure",
+            "electron configuration",
+            "energy levels",
+            "electron shells",
+            "protons",
+            "neutrons",
+            "nucleus",
+            "electron distribution"
+          ],
+          "sourceQuestionId": "5(i)(a)",
+          "sourceCriterionId": "5(i)(a)a"
+        },
+        {
+          "id": "5::1::2",
+          "concept": "[5(i)] [5(i)(b)] mass number of Aluminium-27",
+          "marks": 0.25,
+          "acceptable": [
+            "27",
+            "mass number is 27",
+            "A = 27",
+            "27 is the mass number",
+            "mass number equals 27",
+            "Aluminium-27 has a mass number of 27",
+            "the mass number for Aluminium-27 is 27",
+            "Al-27 mass number is 27"
+          ],
+          "sourceQuestionId": "5(i)(b)",
+          "sourceCriterionId": "5(i)(b)a"
+        },
+        {
+          "id": "5::1::3",
+          "concept": "[5(i)] [5(i)(c)] State the atomic number of Aluminium-27",
+          "marks": 0.25,
+          "acceptable": [
+            "13",
+            "atomic number 13",
+            "Z = 13",
+            "Z is 13",
+            "Aluminium has atomic number 13",
+            "The atomic number of Aluminium is 13",
+            "Aluminium-27 has atomic number 13",
+            "Z for Aluminium is 13",
+            "Z for Aluminium-27 is 13"
+          ],
+          "sourceQuestionId": "5(i)(c)",
+          "sourceCriterionId": "5(i)(c)a"
+        },
+        {
+          "id": "5::1::4",
+          "concept": "[5(i)] [5(i)(d)] Correctly calculate the number of neutrons by subtracting the atomic number from the mass number",
+          "marks": 0.25,
+          "acceptable": [
+            "14",
+            "27 - 13 = 14",
+            "mass number minus atomic number equals 14",
+            "number of neutrons is 14",
+            "subtract atomic number from mass number to get 14",
+            "Aluminium-27 has 14 neutrons"
+          ],
+          "sourceQuestionId": "5(i)(d)",
+          "sourceCriterionId": "5(i)(d)a"
+        },
+        {
+          "id": "5::1::5",
+          "concept": "[5(i)] [5(i)(e)] Identify the number of protons in Aluminium-27",
+          "marks": 0.25,
+          "acceptable": [
+            "13",
+            "thirteen",
+            "atomic number 13",
+            "13 protons",
+            "protons equal to atomic number",
+            "Aluminium has 13 protons",
+            "Aluminium-27 has 13 protons",
+            "The atomic number is 13",
+            "Number of protons is 13"
+          ],
+          "sourceQuestionId": "5(i)(e)",
+          "sourceCriterionId": "5(i)(e)a"
+        },
+        {
+          "id": "5::1::6",
+          "concept": "[5(i)] [5(i)(f)] Correct electronic configuration",
+          "marks": 1,
+          "acceptable": [
+            "2, 8, 3",
+            "K=2, L=8, M=3",
+            "1s2 2s2 2p6 3s2 3p1",
+            "1s² 2s² 2p⁶ 3s² 3p¹",
+            "1s2, 2s2, 2p6, 3s2, 3p1",
+            "1s², 2s², 2p⁶, 3s², 3p¹",
+            "1s2 2s2 2p6 3s2 3p1",
+            "1s^2 2s^2 2p^6 3s^2 3p^1",
+            "1s^2, 2s^2, 2p^6, 3s^2, 3p^1"
+          ],
+          "sourceQuestionId": "5(i)(f)",
+          "sourceCriterionId": "5(i)(f)a"
+        },
+        {
+          "id": "5::2::1",
+          "concept": "[5(ii)] [5(ii)(a)] Correct electron configuration in Bohr model",
+          "marks": 1.5,
+          "acceptable": [
+            "2, 8, 7",
+            "2-8-7",
+            "2 8 7",
+            "K: 2, L: 8, M: 7",
+            "17 electrons arranged as 2 in the first shell, 8 in the second shell, and 7 in the third shell"
+          ],
+          "sourceQuestionId": "5(ii)(a)",
+          "sourceCriterionId": "5(ii)(a)a"
+        },
+        {
+          "id": "5::2::2",
+          "concept": "[5(ii)] [5(ii)(b)] Correctly states the mass number for Chlorine-35",
+          "marks": 0.25,
+          "acceptable": [
+            "35",
+            "mass number 35",
+            "A = 35",
+            "atomic mass 35",
+            "mass number is 35",
+            "the mass number is 35",
+            "chlorine-35 has a mass number of 35",
+            "mass number for chlorine-35 is 35",
+            "35 is the mass number",
+            "chlorine-35 mass number is 35"
+          ],
+          "sourceQuestionId": "5(ii)(b)",
+          "sourceCriterionId": "5(ii)(b)a"
+        },
+        {
+          "id": "5::2::3",
+          "concept": "[5(ii)] [5(ii)(c)] atomic number of chlorine",
+          "marks": 0.25,
+          "acceptable": [
+            "17",
+            "atomic number 17",
+            "Z=17",
+            "Z is 17",
+            "chlorine atomic number 17",
+            "chlorine has atomic number 17",
+            "the atomic number of chlorine is 17",
+            "chlorine's atomic number is 17",
+            "Z equals 17",
+            "Z for chlorine is 17"
+          ],
+          "sourceQuestionId": "5(ii)(c)",
+          "sourceCriterionId": "5(ii)(c)a"
+        },
+        {
+          "id": "5::2::4",
+          "concept": "[5(ii)] [5(ii)(d)] Calculate the number of neutrons by subtracting the atomic number from the mass number",
+          "marks": 0.25,
+          "acceptable": [
+            "mass number minus atomic number",
+            "subtract atomic number from mass number",
+            "mass number 35 minus atomic number 17",
+            "35 - 17",
+            "number of neutrons is 18",
+            "18 neutrons",
+            "35 minus 17 equals 18",
+            "mass number is 35, atomic number is 17, neutrons are 18"
+          ],
+          "sourceQuestionId": "5(ii)(d)",
+          "sourceCriterionId": "5(ii)(d)a"
+        },
+        {
+          "id": "5::2::5",
+          "concept": "[5(ii)] [5(ii)(e)] Identify the number of protons in Chlorine-35 using its atomic number",
+          "marks": 0.25,
+          "acceptable": [
+            "17",
+            "seventeen",
+            "atomic number 17",
+            "protons 17",
+            "chlorine atomic number",
+            "chlorine has 17 protons",
+            "17 protons",
+            "number of protons is 17",
+            "chlorine-35 protons 17"
+          ],
+          "sourceQuestionId": "5(ii)(e)",
+          "sourceCriterionId": "5(ii)(e)a"
+        },
+        {
+          "id": "5::2::6",
+          "concept": "[5(ii)] [5(ii)(f)] Correct electronic configuration of Chlorine-35",
+          "marks": 1,
+          "acceptable": [
+            "2, 8, 7",
+            "K=2, L=8, M=7",
+            "1s2 2s2 2p6 3s2 3p5",
+            "1s² 2s² 2p⁶ 3s² 3p⁵",
+            "1s2, 2s2, 2p6, 3s2, 3p5",
+            "1s², 2s², 2p⁶, 3s², 3p⁵",
+            "1s2 2s2 2p6 3s2 3p5",
+            "1s2 2s2 2p6 3s2 3p5",
+            "1s²2s²2p⁶3s²3p⁵",
+            "1s2 2s2 2p6 3s2 3p5",
+            "1s² 2s² 2p⁶ 3s² 3p⁵"
+          ],
+          "sourceQuestionId": "5(ii)(f)",
+          "sourceCriterionId": "5(ii)(f)a"
+        }
+      ],
+      "tags": {
+        "chapter": "Atoms & Nucleons",
+        "topics": [
+          "Bohr diagram",
+          "Aluminium",
+          "Electronic configuration",
+          "Chlorine"
+        ],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      },
+      "flags": [],
+      "schemeApproved": false
+    }
+  ],
+  "id": "443abab5-a2b9-47b8-9726-c05b01559f08",
+  "createdAt": "2026-09-23T17:37:35.609Z",
+  "updatedAt": "2026-09-23T21:27:49.081Z"
+}

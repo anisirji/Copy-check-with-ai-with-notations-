@@ -1,0 +1,153 @@
+{
+  "title": "Chemistry Unit Test II — Atoms & Nucleons",
+  "subject": "Chemistry",
+  "class": "8 A",
+  "totalMarks": 20,
+  "questions": [
+    {
+      "id": "Q1",
+      "prompt": "Fill in the blanks: (a) ______ are positively charged sub-atomic particles in the nucleus. (b) The ______ of an element equals the number of protons in its nucleus. (c) ______ are electrically neutral sub-atomic particles in the nucleus. (d) Protons and neutrons together are known as ______. (e) A negatively charged ion is called a/an ______.",
+      "maxMarks": 5,
+      "subject": "chemistry",
+      "modelAnswer": "(a) Protons  (b) Atomic number  (c) Neutrons  (d) Nucleons  (e) Anion",
+      "rubric": [
+        {
+          "id": "Q1a",
+          "concept": "(a) Protons",
+          "marks": 1,
+          "acceptable": ["proton", "protons", "p+", "p"]
+        },
+        {
+          "id": "Q1b",
+          "concept": "(b) Atomic number",
+          "marks": 1,
+          "acceptable": ["atomic number", "Z"]
+        },
+        {
+          "id": "Q1c",
+          "concept": "(c) Neutrons",
+          "marks": 1,
+          "acceptable": ["neutron", "neutrons", "n0", "n"]
+        },
+        {
+          "id": "Q1d",
+          "concept": "(d) Nucleons",
+          "marks": 1,
+          "acceptable": ["nucleons", "nucleon"]
+        },
+        {
+          "id": "Q1e",
+          "concept": "(e) Anion",
+          "marks": 1,
+          "acceptable": ["anion", "an anion"]
+        }
+      ]
+    },
+    {
+      "id": "Q2",
+      "prompt": "Write two main features of Rutherford's atomic model.",
+      "maxMarks": 2,
+      "subject": "chemistry",
+      "modelAnswer": "1. Most of the atom is empty space with a small dense positively-charged nucleus at its centre. 2. Electrons revolve around the nucleus in circular orbits.",
+      "rubric": [
+        {
+          "id": "Q2a",
+          "concept": "Nucleus is small, dense, positively charged & holds most of the mass",
+          "marks": 1,
+          "acceptable": ["nucleus", "positive charge", "dense centre"]
+        },
+        {
+          "id": "Q2b",
+          "concept": "Electrons revolve around the nucleus in orbits",
+          "marks": 1,
+          "acceptable": ["electrons revolve", "orbits", "circular path"]
+        }
+      ]
+    },
+    {
+      "id": "Q3",
+      "prompt": "An atom has atomic number 4 and 5 neutrons. Find its mass number, name of the atom and write its symbol in standard notation.",
+      "maxMarks": 3,
+      "subject": "chemistry",
+      "modelAnswer": "A = Z + n = 4 + 5 = 9. Name: Beryllium. Symbol: ⁹₄Be.",
+      "rubric": [
+        {
+          "id": "Q3a",
+          "concept": "Correct calculation A = 4 + 5 = 9",
+          "marks": 1
+        },
+        {
+          "id": "Q3b",
+          "concept": "Name of atom: Beryllium",
+          "marks": 1,
+          "acceptable": ["beryllium", "Be"]
+        },
+        {
+          "id": "Q3c",
+          "concept": "Symbol in standard notation ⁹₄Be",
+          "marks": 1,
+          "acceptable": ["9/4 Be", "Be-9", "⁹₄Be"]
+        }
+      ]
+    },
+    {
+      "id": "Q4",
+      "prompt": "Define isotopes. Give three isotopes of hydrogen using correct notation.",
+      "maxMarks": 3,
+      "subject": "chemistry",
+      "modelAnswer": "Isotopes are atoms of the same element (same Z) with different mass numbers (different neutrons). Hydrogen isotopes: ¹₁H (protium), ²₁H (deuterium), ³₁H (tritium).",
+      "rubric": [
+        {
+          "id": "Q4a",
+          "concept": "Correct definition (same atomic number, different mass numbers/neutrons)",
+          "marks": 1
+        },
+        {
+          "id": "Q4b",
+          "concept": "Three hydrogen isotopes named/written (protium/deuterium/tritium)",
+          "marks": 1
+        },
+        { "id": "Q4c", "concept": "Correct notation ¹₁H, ²₁H, ³₁H", "marks": 1 }
+      ]
+    },
+    {
+      "id": "Q5",
+      "prompt": "For (i) ₁₃Al²⁷ and (ii) ₁₇Cl³⁵: draw the Bohr diagram, state A and Z, find neutrons and protons, and write the electronic configuration.",
+      "maxMarks": 7,
+      "subject": "chemistry",
+      "modelAnswer": "Al: A=27, Z=13, protons=13, neutrons=14, e-config 2,8,3. Cl: A=35, Z=17, protons=17, neutrons=18, e-config 2,8,7. Both diagrams show nucleus labelled with p,n and shells K,L,M with electron counts.",
+      "rubric": [
+        {
+          "id": "Q5a",
+          "concept": "Al: A=27, Z=13, p=13, n=14 correct",
+          "marks": 1
+        },
+        {
+          "id": "Q5b",
+          "concept": "Al: electronic configuration 2,8,3",
+          "marks": 1
+        },
+        {
+          "id": "Q5c",
+          "concept": "Al: Bohr diagram with labelled nucleus & shells",
+          "marks": 1.5
+        },
+        {
+          "id": "Q5d",
+          "concept": "Cl: A=35, Z=17, p=17, n=18 correct",
+          "marks": 1
+        },
+        {
+          "id": "Q5e",
+          "concept": "Cl: electronic configuration 2,8,7",
+          "marks": 1
+        },
+        {
+          "id": "Q5f",
+          "concept": "Cl: Bohr diagram with labelled nucleus & shells",
+          "marks": 1.5
+        }
+      ]
+    }
+  ]
+}

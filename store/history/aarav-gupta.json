@@ -1,0 +1,24 @@
+[
+  {
+    "runId": "443abab5-a2b9-47b8-9726-c05b01559f08--aarav-gupta--1790185124730",
+    "examId": "443abab5-a2b9-47b8-9726-c05b01559f08",
+    "examTitle": "Chemistry Unit Test II — Atoms & Nucleons",
+    "subject": "Chemistry",
+    "class": "8 A",
+    "awardedMarks": 16,
+    "maxMarks": 20,
+    "percentage": 80,
+    "releasedAt": "2026-09-23T21:28:54.101Z"
+  },
+  {
+    "runId": "d1c4ec6d-e40c-4610-864d-7dc5c815584f--aarav-gupta-clear-scan--1790188301349",
+    "examId": "d1c4ec6d-e40c-4610-864d-7dc5c815584f",
+    "examTitle": "Chemistry · clear-scan verification",
+    "subject": "Chemistry",
+    "class": "8 A",
+    "awardedMarks": 16,
+    "maxMarks": 20,
+    "percentage": 80,
+    "releasedAt": "2026-09-23T21:31:32.335Z"
+  }
+]

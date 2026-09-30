@@ -1,0 +1,670 @@
+{
+  "title": "Biology Unit Test",
+  "subject": "biology",
+  "class": "8",
+  "totalMarks": 20,
+  "questions": [
+    {
+      "id": "1(a)",
+      "prompt": "Arrange the following in a food chain: Caterpillar, Plant, Small bird.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Plant → Caterpillar → Small bird",
+      "rubric": [
+        {
+          "id": "1(a)a",
+          "concept": "Correct order of organisms in a food chain",
+          "marks": 1,
+          "acceptable": [
+            "Plant → Caterpillar → Small bird",
+            "Plant to Caterpillar to Small bird",
+            "Plant, Caterpillar, Small bird",
+            "Producer, Herbivore, Carnivore",
+            "Producer → Herbivore → Carnivore",
+            "Producer → Primary consumer → Secondary consumer",
+            "Plant → Herbivore → Carnivore",
+            "Plant → Primary consumer → Secondary consumer"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "1(b)",
+      "prompt": "Define trophic level.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "A trophic level is the position an organism occupies in a food chain, representing its role in the flow of energy and nutrients.",
+      "rubric": [
+        {
+          "id": "1(b)",
+          "concept": "Definition of trophic level",
+          "marks": 1,
+          "acceptable": [
+            "position in a food chain",
+            "level in a food chain",
+            "place in a food chain",
+            "rank in a food chain",
+            "step in a food chain",
+            "role in energy flow",
+            "role in nutrient flow",
+            "function in energy transfer",
+            "function in nutrient transfer",
+            "part in energy and nutrient cycle",
+            "position representing energy flow",
+            "position representing nutrient flow"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(a)",
+      "prompt": "What is a terrestrial ecosystem?",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "A terrestrial ecosystem is a community of living organisms and their environment that exists on land.",
+      "rubric": [
+        {
+          "id": "2(a)a",
+          "concept": "A community of living organisms and their environment on land",
+          "marks": 1,
+          "acceptable": [
+            "community of organisms on land",
+            "ecosystem on land",
+            "land-based ecosystem",
+            "living organisms and their habitat on land",
+            "terrestrial community and environment",
+            "organisms and their environment on land",
+            "land ecosystem",
+            "ecosystem that exists on land"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(b)",
+      "prompt": "Define decomposer.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "A decomposer is an organism that breaks down dead organic material, recycling nutrients back into the ecosystem.",
+      "rubric": [
+        {
+          "id": "2(b)",
+          "concept": "organism that breaks down dead organic material and recycles nutrients back into the ecosystem",
+          "marks": 1,
+          "acceptable": [
+            "organism that decomposes dead matter and returns nutrients to the ecosystem",
+            "organism that decays organic material and recycles nutrients into the environment",
+            "organism that breaks down dead matter and puts nutrients back into the ecosystem",
+            "organism that decomposes organic material and restores nutrients to the ecosystem",
+            "organism that decays dead matter and reintegrates nutrients into the ecosystem",
+            "organism that breaks down dead organic material and recycles nutrients into the ecosystem",
+            "organism that decomposes dead organic material and returns nutrients to the environment"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(c)",
+      "prompt": "Fill in the blank: An example of a rodent is _____.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "mouse",
+      "rubric": [
+        {
+          "id": "2(c)a",
+          "concept": "example of a rodent",
+          "marks": 1,
+          "acceptable": [
+            "mouse",
+            "rat",
+            "squirrel",
+            "hamster",
+            "guinea pig",
+            "beaver",
+            "chipmunk",
+            "gerbil",
+            "capybara",
+            "porcupine"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "3(a)",
+      "prompt": "Identify the odd one out: Tiger, Deer, Cow, Goat.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Tiger",
+      "rubric": [
+        {
+          "id": "3(a)a",
+          "concept": "Identify the odd one out based on diet",
+          "marks": 1,
+          "acceptable": [
+            "Tiger",
+            "the carnivore",
+            "the predator",
+            "the meat-eater",
+            "the non-herbivore",
+            "the only carnivore",
+            "the only predator"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "3(b)",
+      "prompt": "Identify the odd one out: Tiger, Tapeworm, Flea, Lice.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Tiger is the odd one out as it is a mammal, while the others are parasites.",
+      "rubric": [
+        {
+          "id": "3(b)a",
+          "concept": "Identify Tiger as the odd one out because it is a mammal, not a parasite",
+          "marks": 1,
+          "acceptable": [
+            "Tiger is a mammal",
+            "Tiger is not a parasite",
+            "Tiger is the only mammal",
+            "Tiger is different because it's a mammal",
+            "Tiger is not parasitic",
+            "Tiger is not an insect or worm",
+            "Tiger is the only vertebrate"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "4(a)",
+      "prompt": "List any two types of symbiotic relationships.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Mutualism, Parasitism",
+      "rubric": [
+        {
+          "id": "4(a)a",
+          "concept": "Type of symbiotic relationship 1",
+          "marks": 0.5,
+          "acceptable": [
+            "mutualism",
+            "mutualistic relationship",
+            "mutualistic symbiosis",
+            "cooperation",
+            "beneficial symbiosis",
+            "commensalism",
+            "commensalistic relationship",
+            "commensalistic symbiosis",
+            "neutral symbiosis"
+          ]
+        },
+        {
+          "id": "4(a)b",
+          "concept": "Type of symbiotic relationship 2",
+          "marks": 0.5,
+          "acceptable": [
+            "parasitism",
+            "parasitic relationship",
+            "parasitic symbiosis",
+            "host-parasite relationship",
+            "harmful symbiosis",
+            "competition",
+            "competitive relationship",
+            "competitive symbiosis",
+            "antagonistic symbiosis"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "4(b)",
+      "prompt": "Fill in the blank: Plants need _____ and _____ for photosynthesis.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "carbon dioxide and water",
+      "rubric": [
+        {
+          "id": "4(b)",
+          "concept": "photosynthesis requirements",
+          "marks": 1,
+          "acceptable": [
+            ["carbon dioxide", "water"],
+            ["CO2", "H2O"],
+            ["carbonic gas", "dihydrogen monoxide"],
+            ["carbon dioxide", "H2O"],
+            ["CO2", "water"],
+            ["carbonic gas", "water"],
+            ["carbon dioxide", "dihydrogen monoxide"],
+            ["CO2", "dihydrogen monoxide"]
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "5(a)(i)",
+      "prompt": "What are biotic components?",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Biotic components are the living organisms in an ecosystem, such as plants, animals, and microorganisms.",
+      "rubric": [
+        {
+          "id": "5(a)(i)a",
+          "concept": "Biotic components are the living organisms in an ecosystem.",
+          "marks": 1,
+          "acceptable": [
+            "living organisms",
+            "living things",
+            "living components",
+            "organisms",
+            "biotic factors",
+            "plants, animals, and microorganisms",
+            "living parts of an ecosystem"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "5(a)(ii)",
+      "prompt": "List some examples of biotic components.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Examples of biotic components include plants, animals, fungi, bacteria, and protists.",
+      "rubric": [
+        {
+          "id": "5(a)(ii)a",
+          "concept": "examples of biotic components",
+          "marks": 1,
+          "acceptable": [
+            "plants",
+            "animals",
+            "fungi",
+            "bacteria",
+            "protists",
+            "living organisms",
+            "flora",
+            "fauna",
+            "microorganisms"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "5(b)(i)",
+      "prompt": "What are abiotic components?",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Abiotic components are the non-living physical and chemical factors in an ecosystem, such as sunlight, temperature, and soil.",
+      "rubric": [
+        {
+          "id": "5(b)(i)a",
+          "concept": "Abiotic components are the non-living physical and chemical factors in an ecosystem.",
+          "marks": 1,
+          "acceptable": [
+            "non-living components",
+            "non-living factors",
+            "physical and chemical factors",
+            "non-biological components",
+            "environmental factors",
+            "non-living physical factors",
+            "non-living chemical factors",
+            "non-living environmental factors"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "5(b)(ii)",
+      "prompt": "List some examples of abiotic components.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Examples of abiotic components include sunlight, temperature, water, air, and soil.",
+      "rubric": [
+        {
+          "id": "5(b)(ii)a",
+          "concept": "abiotic components",
+          "marks": 1,
+          "acceptable": [
+            "sunlight",
+            "temperature",
+            "water",
+            "air",
+            "soil",
+            "light",
+            "climate",
+            "humidity",
+            "minerals",
+            "non-living factors",
+            "rocks",
+            "pH",
+            "wind",
+            "salinity",
+            "pressure"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(a)",
+      "prompt": "Define flora.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Flora refers to the plant life occurring in a particular region or time, generally the naturally occurring or indigenous plants.",
+      "rubric": [
+        {
+          "id": "6(a)a",
+          "concept": "plant life in a region or time",
+          "marks": 1,
+          "acceptable": [
+            "plant life",
+            "vegetation",
+            "plants",
+            "indigenous plants",
+            "native plants",
+            "flora",
+            "plant species",
+            "botanical life"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(b)",
+      "prompt": "Define fauna.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Fauna refers to all the animal life present in a particular region or time.",
+      "rubric": [
+        {
+          "id": "6(b)a",
+          "concept": "animal life in a region or time",
+          "marks": 1,
+          "acceptable": [
+            "animal life",
+            "animals",
+            "animal species",
+            "wildlife",
+            "faunal life",
+            "all animals in a region",
+            "all animal species",
+            "animals in a specific area",
+            "animals of a particular time"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(c)",
+      "prompt": "What are producers?",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Producers are organisms, like plants and algae, that produce their own food through photosynthesis.",
+      "rubric": [
+        {
+          "id": "6(c)a",
+          "concept": "Organisms that produce their own food through photosynthesis",
+          "marks": 1,
+          "acceptable": [
+            "producers",
+            "autotrophs",
+            "organisms that make their own food",
+            "organisms that synthesize their own food",
+            "self-feeding organisms",
+            "plants and algae",
+            "organisms that produce food through photosynthesis"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(ii)",
+      "prompt": "What are consumers?",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Consumers are organisms that obtain energy by eating other organisms.",
+      "rubric": [
+        {
+          "id": "6(ii)a",
+          "concept": "Organisms that obtain energy by eating other organisms",
+          "marks": 1,
+          "acceptable": [
+            "consumers",
+            "heterotrophs",
+            "organisms that eat other organisms",
+            "organisms that consume others",
+            "organisms that feed on others",
+            "organisms that obtain energy by consuming other organisms",
+            "organisms that rely on others for food",
+            "organisms that cannot produce their own food"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(iii)",
+      "prompt": "Define autotrophs.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Autotrophs are organisms that produce their own food using light or chemical energy.",
+      "rubric": [
+        {
+          "id": "6(iii)",
+          "concept": "Organisms that produce their own food using light or chemical energy",
+          "marks": 1,
+          "acceptable": [
+            "produce their own food using light or chemical energy",
+            "make their own food using light or chemical energy",
+            "synthesize their own food using light or chemical energy",
+            "self-feeding using light or chemical energy",
+            "self-nourishing using light or chemical energy",
+            "produce their own food through photosynthesis or chemosynthesis",
+            "make their own food using sunlight or chemicals",
+            "synthesize their own food by converting light or chemical energy"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(iv)",
+      "prompt": "Define heterotrophs.",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "Heterotrophs are organisms that obtain their energy and nutrients by consuming other organisms.",
+      "rubric": [
+        {
+          "id": "6(iv)a",
+          "concept": "Organisms that obtain energy and nutrients by consuming other organisms",
+          "marks": 1,
+          "acceptable": [
+            "consume other organisms",
+            "eat other organisms",
+            "obtain energy from other organisms",
+            "rely on other organisms for food",
+            "depend on other organisms for nutrients",
+            "get energy by eating other organisms",
+            "gain nutrients from other organisms",
+            "feed on other organisms"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is an ecosystem?",
+      "maxMarks": 1,
+      "subject": "biology",
+      "modelAnswer": "An ecosystem is a community of living organisms interacting with each other and their non-living environment.",
+      "rubric": [
+        {
+          "id": "7",
+          "concept": "interaction of living organisms with each other and their non-living environment",
+          "marks": 1,
+          "acceptable": [
+            "community of living organisms interacting with each other and their non-living environment",
+            "living organisms interacting with each other and their environment",
+            "organisms interacting with biotic and abiotic factors",
+            "biotic community interacting with abiotic environment",
+            "living things interacting with each other and their physical surroundings"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Ecosystems",
+        "topics": ["Ecosystems · biology"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    }
+  ],
+  "evaluationRules": {
+    "mode": "review",
+    "partialCredit": true,
+    "carryForward": true,
+    "unitPenalty": "half",
+    "flagUncertain": true,
+    "confirmed": true
+  },
+  "id": "a98fd1a9-1564-4eaf-86b7-789899c9c34f",
+  "createdAt": "2026-09-23T19:57:27.815Z",
+  "updatedAt": "2026-09-23T19:57:27.898Z",
+  "paper": {
+    "fileName": "biology-questions.pdf"
+  },
+  "approval": {
+    "approvedAt": "2026-09-23T19:57:27.898Z",
+    "approvedBy": "test-runner"
+  }
+}

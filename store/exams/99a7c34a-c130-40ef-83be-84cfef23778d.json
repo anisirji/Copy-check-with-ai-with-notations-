@@ -1,0 +1,473 @@
+{
+  "title": "Mathematics Unit Test",
+  "subject": "math",
+  "class": "8",
+  "totalMarks": 20,
+  "questions": [
+    {
+      "id": "1(iii)",
+      "prompt": "What is the distributive property?",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "The distributive property states that a(b + c) = ab + ac.",
+      "rubric": [
+        {
+          "id": "1(iii)a",
+          "concept": "distributive property",
+          "marks": 1.67,
+          "acceptable": [
+            "distributive property",
+            "distributive law",
+            "a(b + c) = ab + ac",
+            "multiplying a sum by a number",
+            "expand using distribution",
+            "distribute multiplication over addition",
+            "a(b + c) equals ab plus ac",
+            "a times (b plus c) equals a times b plus a times c"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2(ii)",
+      "prompt": "Fill in the blank: The length of the rectangle is _____ cm.",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "10",
+      "rubric": [
+        {
+          "id": "2(ii)a",
+          "concept": "correct length",
+          "marks": 1.67,
+          "acceptable": [
+            "10",
+            "ten",
+            "10.0",
+            "10 cm",
+            "ten centimeters",
+            "10 centimeters",
+            "10.0 cm",
+            "10.0 centimeters"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "3(ii)",
+      "prompt": "Fill in the blank: The number 4 is _____.",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "an even number.",
+      "rubric": [
+        {
+          "id": "3(ii)a",
+          "concept": "even number",
+          "marks": 1.67,
+          "acceptable": [
+            "even number",
+            "divisible by 2",
+            "multiple of 2",
+            "not odd",
+            "2 times an integer",
+            "an integer that ends in 0, 2, 4, 6, or 8"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "4(iii)",
+      "prompt": "Fill in the blank: 2 + 4 = _____",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "6",
+      "rubric": [
+        {
+          "id": "4(iii)a",
+          "concept": "Correct sum of 2 and 4",
+          "marks": 1.67,
+          "acceptable": [
+            "6",
+            "six",
+            "2 + 4 = 6",
+            "two plus four equals six",
+            "2 plus 4 equals 6",
+            "2 + 4 is 6",
+            "two plus four is six",
+            "2 plus 4 is 6"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "Simplify: \\(-\\frac{2}{3} \\times \\frac{1}{2}\\)",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "-\\frac{1}{3}",
+      "rubric": [
+        {
+          "id": "5a",
+          "concept": "Correct simplification of the product of fractions",
+          "marks": 1.67,
+          "acceptable": [
+            "-1/3",
+            "-\\frac{1}{3}",
+            "-0.333",
+            "-0.33",
+            "-0.3333",
+            "-0.33333",
+            "-0.333333"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "6(i)",
+      "prompt": "Simplify: \\(\\frac{8}{3} \\div 2\\)",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "4/3",
+      "rubric": [
+        {
+          "id": "6(i)a",
+          "concept": "Correct simplification of the division",
+          "marks": 1.67,
+          "acceptable": [
+            "4/3",
+            "four-thirds",
+            "1 1/3",
+            "1.333",
+            "1.33",
+            "1.3333",
+            "1.33333"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "B(i)",
+      "prompt": "Find the area of a rectangle with length 9 cm and breadth \\(10\\frac{2}{3}\\) cm.",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "The area of the rectangle is 96 cm².",
+      "rubric": [
+        {
+          "id": "B(i)a",
+          "concept": "Calculate the area of the rectangle using the formula length × breadth",
+          "marks": 1.67,
+          "acceptable": [
+            "area = length × breadth",
+            "area = 9 cm × 10.67 cm",
+            "area = 9 × 10.67",
+            "area = 96 cm²",
+            "area = 96 square centimeters",
+            "area = 9 cm × 10.67 cm = 96 cm²",
+            "area = 9 × 10.67 = 96",
+            "area = 96"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "B(ii)",
+      "prompt": "Find the perimeter of a rectangle with length 9 cm and breadth \\(10\\frac{2}{3}\\) cm.",
+      "maxMarks": 1.67,
+      "subject": "math",
+      "modelAnswer": "Perimeter = 2(length + breadth) = 2(9 cm + 10\\frac{2}{3} cm) = 2(19\\frac{2}{3} cm) = 39\\frac{1}{3} cm.",
+      "rubric": [
+        {
+          "id": "B(ii)a",
+          "concept": "Use the formula for the perimeter of a rectangle",
+          "marks": 0.84,
+          "acceptable": [
+            "Perimeter = 2(length + breadth)",
+            "2 times the sum of length and breadth",
+            "2 multiplied by (length plus breadth)",
+            "2(l + b)",
+            "2 times (9 cm + 10 2/3 cm)"
+          ]
+        },
+        {
+          "id": "B(ii)b",
+          "concept": "Correctly calculate the perimeter",
+          "marks": 0.83,
+          "acceptable": ["39 1/3 cm", "39.333... cm", "39.33 cm", "39.333 cm"]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "1",
+      "prompt": "Find five rational numbers between 3/4 and 7/8.",
+      "maxMarks": 1.66,
+      "subject": "math",
+      "modelAnswer": "Five rational numbers between 3/4 and 7/8 are 13/16, 5/6, 11/12, 7/9, and 3/5.",
+      "rubric": [
+        {
+          "id": "1a",
+          "concept": "Five rational numbers between 3/4 and 7/8",
+          "marks": 1.66,
+          "acceptable": [
+            "13/16, 5/6, 11/12, 7/9, 3/5",
+            "0.8125, 0.8333, 0.9167, 0.7778, 0.6",
+            "0.81, 0.83, 0.91, 0.78, 0.6",
+            "0.8, 0.85, 0.9, 0.75, 0.65",
+            "0.82, 0.84, 0.86, 0.88, 0.89",
+            "19/24, 17/20, 21/25, 22/27, 23/28",
+            "0.76, 0.79, 0.87, 0.89, 0.91",
+            "0.78, 0.82, 0.85, 0.87, 0.88",
+            "0.77, 0.81, 0.84, 0.86, 0.9"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "2",
+      "prompt": "Add the fractions: \\( \\frac{5}{8} + \\frac{-11}{12} \\).",
+      "maxMarks": 1.66,
+      "subject": "math",
+      "modelAnswer": "Convert to a common denominator: \\( \\frac{5}{8} = \\frac{15}{24} \\) and \\( \\frac{-11}{12} = \\frac{-22}{24} \\). Add: \\( \\frac{15}{24} + \\frac{-22}{24} = \\frac{-7}{24} \\).",
+      "rubric": [
+        {
+          "id": "2a",
+          "concept": "Convert fractions to a common denominator and add them",
+          "marks": 1.66,
+          "acceptable": [
+            "find a common denominator and add",
+            "convert to equivalent fractions and add",
+            "use a common denominator to add",
+            "make denominators the same and add",
+            "add using a common denominator",
+            "find equivalent fractions with the same denominator and add",
+            "adjust fractions to have a common denominator and add"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "3",
+      "prompt": "Subtract the fractions: \\( \\frac{15}{24} - \\frac{22}{24} \\).",
+      "maxMarks": 1.66,
+      "subject": "math",
+      "modelAnswer": "-\\frac{7}{24}",
+      "rubric": [
+        {
+          "id": "3a",
+          "concept": "Correct subtraction of fractions",
+          "marks": 1.66,
+          "acceptable": [
+            "-\\frac{7}{24}",
+            "-7/24",
+            "negative seven twenty-fourths",
+            "-7 over 24",
+            "-7 : 24",
+            "-7 divided by 24"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    },
+    {
+      "id": "4",
+      "prompt": "Subtract the fractions: \\( \\frac{3}{7} - \\frac{5}{14} \\).",
+      "maxMarks": 1.66,
+      "subject": "math",
+      "modelAnswer": "Convert \\( \\frac{3}{7} \\) to \\( \\frac{6}{14} \\). Then, \\( \\frac{6}{14} - \\frac{5}{14} = \\frac{1}{14} \\).",
+      "rubric": [
+        {
+          "id": "4a",
+          "concept": "Convert fractions to a common denominator and subtract the numerators",
+          "marks": 0.83,
+          "acceptable": [
+            "common denominator",
+            "same denominator",
+            "equivalent fractions",
+            "convert to like fractions",
+            "find a common base",
+            "subtract numerators",
+            "numerator subtraction",
+            "calculate the difference"
+          ]
+        },
+        {
+          "id": "4b",
+          "concept": "Simplify the resulting fraction",
+          "marks": 0.83,
+          "acceptable": [
+            "simplify the result",
+            "reduce the fraction",
+            "simplify",
+            "lowest terms",
+            "simplified form"
+          ]
+        }
+      ],
+      "schemeApproved": true,
+      "tags": {
+        "chapter": "Mensuration",
+        "topics": ["Mensuration · math"],
+        "difficulty": "medium",
+        "confirmedByTeacher": true
+      }
+    }
+  ],
+  "evaluationRules": {
+    "mode": "review",
+    "partialCredit": true,
+    "carryForward": true,
+    "unitPenalty": "half",
+    "flagUncertain": true,
+    "confirmed": true
+  },
+  "id": "99a7c34a-c130-40ef-83be-84cfef23778d",
+  "createdAt": "2026-09-23T21:53:58.536Z",
+  "updatedAt": "2026-09-23T21:53:58.605Z",
+  "paper": {
+    "fileName": "mathematics-questions.pdf"
+  },
+  "marksNormalization": {
+    "originalTotalMarks": 12,
+    "targetTotalMarks": 20,
+    "questions": [
+      {
+        "id": "1(iii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "2(ii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "3(ii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "4(iii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "5",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "6(i)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "B(i)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "B(ii)",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.67
+      },
+      {
+        "id": "1",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.66
+      },
+      {
+        "id": "2",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.66
+      },
+      {
+        "id": "3",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.66
+      },
+      {
+        "id": "4",
+        "originalMaxMarks": 1,
+        "maxMarks": 1.66
+      }
+    ]
+  },
+  "approval": {
+    "approvedAt": "2026-09-23T21:53:58.605Z",
+    "approvedBy": "test-runner"
+  }
+}

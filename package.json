@@ -1,0 +1,15 @@
+{
+  "name": "copy-check-poc",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "install:all": "pnpm --dir backend install && pnpm --dir frontend install",
+    "dev": "concurrently -k -n backend,frontend -c blue,magenta \"pnpm --dir backend dev\" \"pnpm --dir frontend dev\"",
+    "dev:backend": "pnpm --dir backend dev",
+    "dev:frontend": "pnpm --dir frontend dev",
+    "example": "pnpm --dir backend example"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}

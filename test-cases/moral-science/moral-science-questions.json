@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1(A)",
+    "prompt": "You have won an award for a school activity. Your principal has asked you to speak a few lines on stage. You will",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "1(B)",
+    "prompt": "You had an argument with your friend. Your friend has something wrong. You will",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "1(C)",
+    "prompt": "Your father is scolding you for something. You will",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "1(D)",
+    "prompt": "Your mother and father have an argument among themselves on something. You will",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "1(E)",
+    "prompt": "You are attending a party where you are meeting your friends after a long time. You will",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2.1",
+    "prompt": "Fill in the blank: Swami Vivekananda had thus addressed the _____ youth.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2.2",
+    "prompt": "Fill in the blank: Dr. Michael F. Jacobson is a famous _____",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2.3",
+    "prompt": "Fill in the blank: The tortoise was a little _____",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2.4",
+    "prompt": "Fill in the blank: The Sultan was fairly _____",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2.5",
+    "prompt": "Fill in the blank: God also created _____",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "1",
+    "prompt": "Why should we not lie?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "2",
+    "prompt": "What is more important, quality or beauty? Why?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "3",
+    "prompt": "What is meant by balanced diet?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "4",
+    "prompt": "Tell five ways to keep fit and fine.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "5",
+    "prompt": "What are responsibilities towards our parents?",
+    "maxMarks": null,
+    "subject": "general"
+  }
+]

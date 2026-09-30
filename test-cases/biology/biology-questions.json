@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1(a)",
+    "prompt": "Arrange the following in a food chain: Plant, Small bird, Caterpillar.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "1(b)",
+    "prompt": "Name the level in a food chain represented by herbivores.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "2(a)",
+    "prompt": "What is called the movement of organisms from one place to another?",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "2(b)",
+    "prompt": "Define decomposers.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "2(c)",
+    "prompt": "Which animal is a common pest?",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "3(a)",
+    "prompt": "Identify the odd one out: Liger, Tiger, Lion, Leopard.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "3(b)",
+    "prompt": "Identify the odd one out: Liger, Parasite, Host, Symbiont.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "4(a)",
+    "prompt": "List any two types of symbiotic relationships.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "4(b)",
+    "prompt": "Name two abiotic factors essential for photosynthesis.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "5",
+    "prompt": "Differentiate between biotic and abiotic components of an ecosystem.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(a)",
+    "prompt": "Differentiate between flora and fauna.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(b)(i)",
+    "prompt": "Name the producers of an ecosystem.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(b)(ii)",
+    "prompt": "What is an autotroph?",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(b)(iii)",
+    "prompt": "Name the consumers of an ecosystem.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(b)(iv)",
+    "prompt": "What is a heterotroph?",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(c)",
+    "prompt": "Define an ecosystem.",
+    "maxMarks": null,
+    "subject": "biology"
+  },
+  {
+    "id": "6(b)",
+    "prompt": "Why is food web important in an ecosystem?",
+    "maxMarks": null,
+    "subject": "biology"
+  }
+]

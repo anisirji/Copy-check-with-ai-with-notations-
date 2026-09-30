@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "prompt": "Tick the correct (✓) option: Laziness is a quality that will not help us in our life.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "2",
+    "prompt": "Tick the correct (✓) option: What value can we learn by watching birds help each other find food?",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "3",
+    "prompt": "Tick the correct (✓) option: The most common symptom of typhoid is high fever.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "4",
+    "prompt": "Tick the correct (✓) option: Paces like Jallianwala Bagh represent the bravery and hardships by freedom fighters.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "5",
+    "prompt": "Tick the correct (✓) option: Renewable sources are valuable because they preserve non-renewable sources.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "6",
+    "prompt": "Tick the correct (✓) option: One way to stay away from bad thoughts is to write a gratitude journal.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "7",
+    "prompt": "Tick the correct (✓) option: How can facing a big challenge bring a positive change in a person?",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "8",
+    "prompt": "Tick the correct (✓) option: The team of Mangalyaan teaches us to work hard and be passionate.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "9",
+    "prompt": "Tick the correct (✓) option: Not dreaming big can help us live a healthy and happy life.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "10",
+    "prompt": "Tick the correct (✓) option: The National War Memorial reminds us to honour the bravery of our soldiers.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "2(i)",
+    "prompt": "Fill in the blank: The Iron man of India is _____ Vallabh Bhai Patel.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "2(ii)",
+    "prompt": "Fill in the blank: One of the most beautiful birds in the world is the Greater _____ of paradise.",
+    "maxMarks": 1,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.1",
+    "prompt": "Name India's first mission to Mars.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.2",
+    "prompt": "Name a famous Indian oncologist.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.3",
+    "prompt": "Who was fired in Jallianwala Bagh?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.4",
+    "prompt": "Who was the deputy operation director of mission Mangalyaan?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.5",
+    "prompt": "Name the bird who has brightly coloured feathers.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.6",
+    "prompt": "Name an AI-powered smart glasses.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.7",
+    "prompt": "Name the flame who burns here continuously.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.8",
+    "prompt": "The Korean bell of friendship is gifted by which country?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.9",
+    "prompt": "Name the bridge which is known as peace, progress and unity.",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q3.10",
+    "prompt": "What does the Korean bell symbolize?",
+    "maxMarks": null,
+    "subject": "general"
+  },
+  {
+    "id": "Q4.1",
+    "prompt": "Write five symptoms of typhoid.",
+    "maxMarks": 5,
+    "subject": "biology"
+  },
+  {
+    "id": "Q4.2",
+    "prompt": "What does the Statue of Liberty symbolize?",
+    "maxMarks": 3,
+    "subject": "general"
+  },
+  {
+    "id": "Q4.3",
+    "prompt": "Mycelium is a mixture of what?",
+    "maxMarks": 3,
+    "subject": "biology"
+  },
+  {
+    "id": "Q4.4",
+    "prompt": "The bridge of peace symbolizes what?",
+    "maxMarks": 3,
+    "subject": "general"
+  },
+  {
+    "id": "Q4.5",
+    "prompt": "Major Dhyan Chand won three Olympic medals in which years?",
+    "maxMarks": 3,
+    "subject": "general"
+  },
+  {
+    "id": "Q4.6",
+    "prompt": "What does the Statue of Unity symbolize?",
+    "maxMarks": 3,
+    "subject": "general"
+  }
+]
